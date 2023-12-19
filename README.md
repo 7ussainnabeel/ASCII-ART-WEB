@@ -65,7 +65,3 @@ go run main.go
 ## Version
 
 - Current version: 1.0
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
